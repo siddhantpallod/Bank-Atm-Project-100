@@ -26,4 +26,6 @@ def main():
         newUser.withdraw(amount)
     else:
         print("Enter A Valid Number")
+        
+main()        
 
